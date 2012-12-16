@@ -17,8 +17,9 @@ app.configure(function(){
   app.use(express.bodyParser());
   app.use(express.methodOverride());
   app.use(app.router);
-  app.use(require('less-middleware')({ src: __dirname + '/node_modules/numbers/public' }));
-  app.use(express.static(path.join(__dirname, 'public')));
+  app.use(express.staticCache());
+  app.use(express.static(path.join(__dirname, 'node_modules/numbers/public', {maxAge: 86400})));
+  app.use(express.compress());
 });
 
 app.configure('development', function(){
