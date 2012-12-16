@@ -1,6 +1,1 @@
-[submodule "public/javascripts/numbers"]
-	path = public/javascripts/numbers
-	url = git@github.com:sjkaliski/numbers.js.git
-[submodule "public/javascript/numbers"]
-	path = public/javascript/numbers
-	url = git://github.com/sjkaliski/numbers.js.git
+
