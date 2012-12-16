@@ -1,4 +1,4 @@
 numbers.js-cdn
 ==============
 
-CDN for number.js
+CDN for [numbers.js](https://github.com/sjkaliski/numbers.js).
