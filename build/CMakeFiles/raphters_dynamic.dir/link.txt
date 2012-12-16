@@ -1,0 +1,1 @@
+/usr/bin/gcc   -dynamiclib -Wl,-headerpad_max_install_names   -o libraphters_dynamic.dylib -install_name /Users/david/Documents/numbers.js-cdn/build/libraphters_dynamic.dylib CMakeFiles/raphters_dynamic.dir/dispatcher.c.o CMakeFiles/raphters_dynamic.dir/request.c.o CMakeFiles/raphters_dynamic.dir/response.c.o CMakeFiles/raphters_dynamic.dir/raphters.c.o -L/usr/local/lib -lfcgi 

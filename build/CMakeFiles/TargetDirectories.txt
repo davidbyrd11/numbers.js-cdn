@@ -1,0 +1,3 @@
+/Users/david/Documents/numbers.js-cdn/build/CMakeFiles/raphters_dynamic.dir
+/Users/david/Documents/numbers.js-cdn/build/CMakeFiles/raphters_static.dir
+/Users/david/Documents/numbers.js-cdn/build/CMakeFiles/server.dir

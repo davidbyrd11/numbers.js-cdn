@@ -1,4 +1,3 @@
-numbers.js-cdn
-==============
+# Numbers.js CDN
 
-CDN for [numbers.js](https://github.com/sjkaliski/numbers.js).
+But in C ... because I have finals next week and this seems like a good way to procrastinate.
