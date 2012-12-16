@@ -1,0 +1,18 @@
+INF [20121216-06:00:48.990] finatra: process 44234 started on 7070
+INF [20121216-06:01:04.233] finatra: GET /
+INF [20121216-06:01:04.378] finatra: GET /favicon.ico
+INF [20121216-06:01:10.027] finatra: GET /template
+INF [20121216-06:01:10.163] finatra: GET /favicon.ico
+INF [20121216-06:09:04.358] finatra: GET /
+INF [20121216-06:09:04.498] finatra: GET /favicon.ico
+INF [20121216-06:10:08.104] finatra: process 44413 started on 7070
+INF [20121216-06:10:48.850] finatra: GET /
+INF [20121216-06:10:49.001] finatra: GET /favicon.ico
+INF [20121216-06:11:06.317] finatra: GET /favicon.ico
+INF [20121216-06:12:09.059] finatra: GET /
+INF [20121216-06:12:09.186] finatra: GET /favicon.ico
+INF [20121216-06:12:21.261] finatra: GET /
+INF [20121216-06:12:21.354] finatra: GET /favicon.ico
+INF [20121216-06:12:24.832] finatra: GET /
+INF [20121216-06:12:24.926] finatra: GET /favicon.ico
+INF [20121216-06:12:31.545] finatra: GET /favicon.ico
